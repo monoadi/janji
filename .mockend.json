@@ -1,5 +1,5 @@
 {
   "Reservable": {
-    "name": { "uuid": {} }
+    "name": "uuid"
   }
 }
