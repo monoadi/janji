@@ -1,5 +1,5 @@
 {
   "Reservable": {
-    "name": { "regexp": "[0-9A-F]{32}" }
+    "name": { "regexp": "[0-9A-F]{16}" }
   }
 }
