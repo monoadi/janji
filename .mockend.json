@@ -1,5 +1,5 @@
 {
   "Reservable": {
-    "name": "uuid"
+    "name": { "regexp": "[0-9A-F]32}" }
   }
 }
